@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m RoFishy! Game developer & software developer.<br>🎨 My interests are programming, graphic design, UI/UX, and 3D modeling.<br>⚒️ Currently working on creating digital experiences for all people to enjoy.<br>⭐️ Always looking to meet new people and learn new things!
+👋 Hey, I’m RoFishy! Upcoming game developer & software developer.<br>🎨 My interests are programming, graphic design, UI/UX, and 3D modeling.<br>⚒️ Currently working on creating digital experiences for all people to enjoy.<br>⭐️ Always looking to meet new people and learn new things!
 
 
 ## 🌐 Socials:
